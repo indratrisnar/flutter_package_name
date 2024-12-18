@@ -1,0 +1,31 @@
+package_rename_config:
+  android:
+    app_name: Wisata Kuy
+    package_name: com.fdlux.wisatakuy
+    override_old_package: com.fdlux.wisatakuy
+    lang: kotlin
+
+  ios:
+    app_name: Wisata Kuy
+    bundle_name: wisatakuy
+    package_name: com.fdlux.wisatakuy
+
+  web:
+    app_name: Wisata Kuy
+    description: Aplikasi Pencarian Wisata Terkini di Indonesia
+
+  linux:
+    app_name: Wisata Kuy
+    package_name: com.fdlux.wisatakuy
+    exe_name: wisatakuy-linux-x64
+
+  windows:
+    app_name: Wisata Kuy
+    organization: FlutterDelux
+    copyright_notice: Copyright ©️ 2024 FlutterDelux. All rights reserved.
+    exe_name: wisatakuy-win32
+
+  macos:
+    app_name: Wisata Kuy
+    package_name: com.fdlux.wisatakuy
+    copyright_notice: Copyright ©️ 2022 FlutterDelux. All rights reserved.
